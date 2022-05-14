@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.env
+dev.env
+venv/
+
+api_key.json
+
+.idea
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 1"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.87842886284058, 50.02037644063615]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 2"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.87904577241767, 50.02061426507953]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 3"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.88111644297513, 50.02086587208296]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 4"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.88378255144922, 50.02118127225255]
+        }
+    },
+      {
+          "type": "Feature",
+          "properties": {"info":"Trip point 5"},
+          "geometry": {
+              "type": "Point",
+              "coordinates": [19.886046336594347, 50.021663806782364]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {"info":"Trip point 6"},
+          "geometry": {
+              "type": "Point",
+              "coordinates": [19.888277981369406, 50.02209806977438]
+          }
+      },
+      {
+        "type": "Feature",
+        "properties": {"info":"Trip point 7"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.890493474641204, 50.02247887912648]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 8"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.89143674821531, 50.021766040384506]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {"info":"Trip point 9"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.892594190916558, 50.02154672291689]
+        }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+  api:
+    build:
+      context: backend
+      dockerfile: Dockerfile
+    env_file:
+      - backend/.env
+    ports:
+      - '5000:80'
+  dashboard:
+    build:
+      context: dashboard
+      dockerfile: Dockerfile
+    ports:
+      - '8082:8082'

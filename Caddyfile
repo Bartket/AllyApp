@@ -1,0 +1,11 @@
+167.71.33.236:8080 {
+	file_server {
+		root frontend/dist
+	}
+	tls internal
+}
+
+167.71.33.236:8081 {
+	reverse_proxy 127.0.0.1:5000
+	tls internal
+}
